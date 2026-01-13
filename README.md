@@ -12,5 +12,4 @@ Visite o repositório: [llercio/Praticas-Java-Poo](https://github.com/llercio/Pr
 
 ## Como rodar
 Recomenda-se ter o JDK 11+ instalado. Você pode rodar arquivos ou projetos de várias formas:
-IDE:
 - Use IntelliJ IDEA, Eclipse, Visual Studio, VS Code (com extensões) para importar o diretório como projeto e rodar as classes/módulos com `main`.
